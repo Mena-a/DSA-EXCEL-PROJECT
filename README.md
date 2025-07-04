@@ -21,4 +21,5 @@ Ms Excel for data cleaning & dashboard presntation[Download here](https//wwww.mi
 6. - What is the product with the highest average rating
    - Total number of reviews per category
    - Average discount percentage by product category.
-   - 
+
+     
