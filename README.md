@@ -22,4 +22,7 @@ Ms Excel for data cleaning & dashboard presntation[Download here](https//wwww.mi
    - Total number of reviews per category
    - Average discount percentage by product category.
 
-     
+   ![image](https://github.com/user-attachments/assets/5136dcd5-1c2f-4d33-bc54-3fe62ff05a6c)
+   ![image](https://github.com/user-attachments/assets/a75042bd-247e-47e3-8887-1a71e8a6ac27)
+
+  
